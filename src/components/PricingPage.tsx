@@ -88,7 +88,7 @@ export function PricingPage({ onBack }: PricingPageProps) {
                 <Crown className="w-8 h-8 text-white" />
               </div>
               <h3 className="text-2xl font-bold mb-2">Pro</h3>
-              <div className="text-4xl font-bold mb-1">$9.99</div>
+              <div className="text-4xl font-bold mb-1">$4.99</div>
               <p className="text-emerald-100">per month</p>
             </div>
 
